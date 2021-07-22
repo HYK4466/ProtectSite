@@ -1,0 +1,91 @@
+body {
+  height: 500px;
+  width: 300px;
+  outline: none;
+  background-color: #5307F6;
+  margin: 10px;
+  border: none;
+  border-radius: 2px;
+}
+
+#cond {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.Pass {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#pwd, #repwd, #sub {
+  margin-top: 7px;
+}
+
+#a {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+#save {
+    background-image: url('https://i.kym-cdn.com/photos/images/newsfeed/002/043/088/afe.jpg');
+    background-size: cover;
+    display: block;
+    margin: 0;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8839E8;
+    padding: 15px;
+}
+
+#start {
+  background-image: url('https://i.kym-cdn.com/photos/images/newsfeed/002/043/088/afe.jpg');
+  background-size: cover;
+  display: block;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #8839E8;
+  padding: 15px ;
+}
